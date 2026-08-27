@@ -1,0 +1,15 @@
+{
+	"name": "df-sanspotifypro",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "139c63dc-b12f-43f7-b038-d84f9b9a7724",
+		"tenantId": "7b03c33f-f372-4316-91cd-dc64185e2747"
+	}
+}
